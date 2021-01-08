@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="title_recipes">Recipes</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_food_joke">Joke</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_meal_type">Meal Type</string>
+    <string name="txt_main_course">Main Course</string>
+    <string name="txt_side_dish">Side Dish</string>
+    <string name="txt_dessert">Dessert</string>
+    <string name="txt_appetizer">Appetizer</string>
+    <string name="txt_salad">Salad</string>
+    <string name="txt_bread">Bread</string>
+    <string name="txt_breakfast">Breakfast</string>
+    <string name="txt_soup">Soup</string>
+    <string name="txt_beverage">Beverage</string>
+    <string name="txt_sauce">Sauce</string>
+    <string name="txt_marinade">Marinade</string>
+    <string name="txt_finger_food">Finger Food</string>
+    <string name="txt_snack">Snack</string>
+    <string name="txt_drink">Drink</string>
+    <string name="txt_diet_type">Diet Type</string>
+    <string name="txt_gluten_free">Gluten Free</string>
+    <string name="txt_ketogenic">Ketogenic</string>
+    <string name="txt_vegetarian">Vegetarian</string>
+    <string name="txt_vegan">Vegan</string>
+    <string name="txt_pescetarian">Pescetarian</string>
+    <string name="txt_paleo">Paleo</string>
+    <string name="txt_primal">Primal</string>
+    <string name="txt_whole30">Whole30</string>
+    <string name="txt_apply">Apply</string>
+    <string name="txt_search">Search</string>
+    <string name="text_dairy_free">Dairy free</string>
+    <string name="txt_healthy">Healthy</string>
+    <string name="txt_cheap">Cheap</string>
+    <string name="txt_save_to_favorites">Save to Favorites</string>
+    <string name="txt_no_favorite_recipes">No Favorite Recipes</string>
+    <string name="txt_delete_favorite_menu">Delete Favorite Menu</string>
+    <string name="txt_delete_all">Delete All</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet dui ante. Vestibulum tristique nisi a interdum dapibus. Nam urna lectus, luctus quis lorem ac, porta aliquam ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus ullamcorper rhoncus diam ut posuere. Etiam posuere, lectus eu varius interdum, tellus nisi laoreet diam, in varius neque mauris a arcu. Morbi consequat vel magna non commodo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla aliquet molestie est, quis eleifend eros mollis nec. Vivamus in risus at felis volutpat commodo. Proin aliquam convallis massa eu elementum. In blandit quam id cursus pellentesque. Sed eleifend auctor volutpat. Quisque scelerisque ipsum condimentum sem placerat, eget eleifend urna consequat.</string>
+    <string name="txt_share">Share</string>
+</resources>
